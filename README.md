@@ -30,3 +30,8 @@ Power BI interactive dashboard showing cyber security attack trends worldwide.
 Gaurav Bhausaheb Kadam
 B.Tech AIML Student
 Sanjivani University Kopargaon
+
+## Dashboard Preview
+
+![Cyber Security Dashboard](dashboard.png)
+
